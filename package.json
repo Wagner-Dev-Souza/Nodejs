@@ -1,0 +1,32 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Node.js - Curso avançado de JavaScript",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test2": "cls && echo 'Hello Script'",
+    "dev": "nodemon hello.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wagner-Dev-Souza/Node.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Wagner Souza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wagner-Dev-Souza/Node/issues"
+  },
+  "homepage": "https://github.com/Wagner-Dev-Souza/Node#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
