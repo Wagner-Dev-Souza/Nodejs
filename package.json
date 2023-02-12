@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Wagner-Dev-Souza/Node.git"
+    "url": "git+https://github.com/Wagner-Dev-Souza/Nodejs.git"
   },
   "keywords": [
     "node",
@@ -20,9 +20,9 @@
   "author": "Wagner Souza",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Wagner-Dev-Souza/Node/issues"
+    "url": "https://github.com/Wagner-Dev-Souza/Nodejs/issues"
   },
-  "homepage": "https://github.com/Wagner-Dev-Souza/Node#readme",
+  "homepage": "https://github.com/Wagner-Dev-Souza/Nodejs#readme",
   "dependencies": {
     "colors": "^1.4.0"
   },
